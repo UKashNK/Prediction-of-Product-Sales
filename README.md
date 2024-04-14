@@ -1,5 +1,5 @@
 # Prediction of product Sales Project
-##Author:
+## Author: Katende Ndugwa
 ## Introduction
 This is a project to predict the product sales of a company
 
@@ -12,23 +12,19 @@ This is a project to predict the product sales of a company
 
 ## Model
 
-The final model is a Random forest regressor with 
+The final model is a Random forest regressor.
 
-Report the most important metrics
+The model has an r² value of 0.602 and an Mean Average Error of $729.091 for 2131 items.
 
-Refer to the metrics to describe how well the model would solve the business problem
+Hence the model will be able to predict sales with an eror of less than $1
 
 ## Recommendations:
 
-More of your own text here
-
+There is significant correlation between Item Maximum retail price and sales, consider raising Maximum retail price in order to realise higher sales.
 
 ## Limitations & Next Steps
-
-More of your own text here
-
-
+Even though raising maximum retail price could sales,it may also have a negative impact sales volumes, further investigation needs to be carried out to assess the full impact of retail prices of sales.
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **katendeunkin07@gmail.com**
