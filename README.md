@@ -23,7 +23,7 @@ Hence the model will be able to predict sales with an eror of less than $1
 There is significant correlation between Item Maximum retail price and sales, consider raising Maximum retail price in order to realise higher sales.
 
 ## Limitations & Next Steps
-Even though raising maximum retail price could sales,it may also have a negative impact sales volumes, further investigation needs to be carried out to assess the full impact of retail prices of sales.
+Even though raising maximum retail price could increase sales,it may also have a negative impact sales volumes, further investigation needs to be carried out to assess the full impact of retail prices of sales.
 ### For further information
 
 
